@@ -15,9 +15,10 @@
 
 ### In-class practice 1:
 1.	Download two CSV files:
-a.	Net Migration (http://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3aSM.POP.NETM) - DO NOT APPLY ANY FILTERS
 
-b.	Percentage of Individuals using the Internet http://data.un.org/Data.aspx?d=ITU&f=ind1Code%3aI99H - DO NOT APPLY ANY FILTERS
+    a.	Net Migration (http://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3aSM.POP.NETM) - DO NOT APPLY ANY FILTERS
+
+    b.	Percentage of Individuals using the Internet http://data.un.org/Data.aspx?d=ITU&f=ind1Code%3aI99H - DO NOT APPLY ANY FILTERS
 
 
 2.	Launch a Jupyter Notebook.
